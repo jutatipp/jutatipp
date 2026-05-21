@@ -19,20 +19,18 @@
 
 # 🔗 CONNECT WITH ME
 
-<a href="https://instagram.com/jutatipp">
+<div align="center">
+
+<a href="https://www.facebook.com/jutatip.phubunlot/">
+<img src="https://img.shields.io/badge/FACEBOOK-black?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOURINSTAGRAM">
 <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jutatip.ph@kkumail.com">
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jutatipp">
-<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
