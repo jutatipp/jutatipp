@@ -66,7 +66,8 @@ Location: Thailand
 
 <td width="42%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100%" />
+<img src="<img width="500" height="273" alt="image" src="https://github.com/user-attachments/assets/e7c55a98-772e-4248-b758-4250c2b011c4" />
+" />
 
 </td>
 
