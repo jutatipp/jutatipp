@@ -35,30 +35,51 @@
 
 # 👩‍💻 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ0a3A2c2t0Z2F5cHJ3MXQ3Ym5mYzM0aXh5ZXB4dXQ3aGl0eWh6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+# 👩‍💻 ABOUT ME
+
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 Name: Jutatip
+Education: Computer Science & Information Technology
 Role: Frontend Developer & UX/UI Designer
-Focus: Modern UI / UX Experiences
-Learning: React, Next.js, Backend Development
+Focus: Modern UI / Creative Experiences
+Learning: React, Next.js & Backend Development
 Passion: Creative Coding & Beautiful Interfaces
+Goal: Trying my best to reach my dreams
 Location: Thailand
 ```
 
+</td>
+
+<td width="45%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="260"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br>
 
-- ✨ Love designing modern interfaces
-- 💻 Frontend & UI focused developer
-- 🎨 UX/UI enthusiast
-- 🚀 Building clean digital experiences
-- 🌱 Improving coding skills every day
+<div align="center">
 
-<br>
-<br>
+✨ Love creating modern and clean interfaces  
+💻 Frontend & UI focused developer  
+🎨 Passionate about UX/UI design  
+🚀 Building modern digital experiences  
+🌱 Learning and improving coding skills every day  
+🖤 Trying my best to grow and reach my dreams  
+
+</div>
 
 ---
-
 # ⚡ TECH STACK
 
 <div align="center">
