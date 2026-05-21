@@ -11,7 +11,7 @@ Frontend Developer | UX/UI Designer
 - 🎓 Computer Science Student
 - 💻 Interested in Web Development
 - 🎨 Love UX/UI Design
-- 🌱 Currently learning React & Backend
+- 🌱 Currently learning React & Frontend
 
 ---
 
