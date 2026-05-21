@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Jutatip</h1>
 
-<!--
-**jutatipp/jutatipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Developer | UX/UI Designer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- 🎓 Computer Science Student
+- 💻 Interested in Web Development
+- 🎨 Love UX/UI Design
+- 🌱 Currently learning React & Backend
+
+---
+
+## 🚀 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=jutatipp&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jutatipp&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- Instagram
+- Facebook
+- LinkedIn
