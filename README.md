@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:jutatip.ph@kkumail.com>
+<a href="jutatip.ph@kkumail.com>
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
