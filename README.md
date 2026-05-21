@@ -25,11 +25,11 @@
 <img src="https://img.shields.io/badge/FACEBOOK-black?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOURINSTAGRAM">
+<a href="https://www.instagram.com/jutatip_sky/">
 <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:jutatip.ph@kkumail.com>
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
