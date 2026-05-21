@@ -37,11 +37,12 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
 
-`yaml
+<td width="58%" valign="top">
+
+```yaml
 Name: Jutatip
 Education: Computer Science & Information Technology
 Role: Frontend Developer & UX/UI Designer
@@ -50,23 +51,9 @@ Learning: React, Next.js & Backend Development
 Passion: Creative Coding & Beautiful Interfaces
 Goal: Trying my best to reach my dreams
 Location: Thailand
-`
-
-</td>
-
-<td width="45%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="260"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+```
 
 <br>
-
-<div align="center">
 
 ✨ Love creating modern and clean interfaces  
 💻 Frontend & UI focused developer  
@@ -74,6 +61,17 @@ Location: Thailand
 🚀 Building modern digital experiences  
 🌱 Learning and improving coding skills every day  
 🖤 Trying my best to grow and reach my dreams  
+
+</td>
+
+<td width="42%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
