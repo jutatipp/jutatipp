@@ -66,7 +66,8 @@ Location: Thailand
 
 <td width="42%">
 
-<img width="500" height="273" alt="image" src="https://github.com/user-attachments/assets/e7c55a98-772e-4248-b758-4250c2b011c4" />
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" />
+
 </td>
 
 </tr>
