@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=JUTATIPP;Frontend+Developer;UX%2FUI+Designer;Creative+Thinker" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Jutatip;Computer+Science+and+Information+Technology+Student;I+want+to+try+my+best+until+the+end." />
 
 <br>
 
