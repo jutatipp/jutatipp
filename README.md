@@ -35,15 +35,13 @@
 
 # 👩‍💻 ABOUT ME
 
-# 👩‍💻 ABOUT ME
-
 <div align="center">
 
 <table>
 <tr>
 <td width="55%">
 
-```yaml
+`yaml
 Name: Jutatip
 Education: Computer Science & Information Technology
 Role: Frontend Developer & UX/UI Designer
@@ -52,7 +50,7 @@ Learning: React, Next.js & Backend Development
 Passion: Creative Coding & Beautiful Interfaces
 Goal: Trying my best to reach my dreams
 Location: Thailand
-```
+`
 
 </td>
 
