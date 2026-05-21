@@ -66,8 +66,7 @@ Location: Thailand
 
 <td width="42%">
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" />
-
+<img src="https://raw.githubusercontent.com/jutatipp/jutatipp/main/giphy_gif.gif" width="100%" />
 </td>
 
 </tr>
