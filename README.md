@@ -135,17 +135,6 @@ Skilled in planning and organizing work, with a strong willingness to grow and d
 
 ---
 
-# GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000"/>
-
-</div>
-
----
 
 # CONTRIBUTION STREAK
 
