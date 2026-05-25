@@ -1,15 +1,38 @@
 <div align="center">
 
-"<img width="942" height="247" alt="image" src="https://github.com/user-attachments/assets/6df78b3b-0442-4d42-b04e-f82d2d99fe80" />
-"
+<img width="942" height="247" alt="image" src="https://github.com/user-attachments/assets/6df78b3b-0442-4d42-b04e-f82d2d99fe80" />
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Jutatip;Computer+Science+and+Information+Technology+Student;I+want+to+try+my+best+until+the+end."
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Jutatip;Computer+Science+and+Information+Technology+Student;I+want+to+try+my+best+until+the+end."
+  />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Jutatip" />
+</picture>
 
 <br>
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Jutatip;Computer+Science+and+Information+Technology+Student;I+want+to+try+my+best+until+the+end." />
-<br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+modern+digital+experiences...;Designing+clean+and+creative+interfaces...;Code.+Design.+Deploy.+Repeat."
+  />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Building+modern+digital+experiences...;Designing+clean+and+creative+interfaces...;Code.+Design.+Deploy.+Repeat." />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Building+modern+digital+experiences...;Designing+clean+and+creative+interfaces...;Code.+Design.+Deploy.+Repeat."
+  />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Building+modern+digital+experiences..." />
+</picture>
 
 </div>
 
@@ -17,7 +40,7 @@
 
 <div align="center">
 
-# 🔗 CONNECT WITH ME
+# CONNECT WITH ME
 
 <div align="center">
 
@@ -33,7 +56,7 @@
 
 ---
 
-# 👩‍💻 ABOUT ME
+#  ABOUT ME
 
 <div align="center">
 
@@ -41,29 +64,19 @@
 <tr>
 
 <td width="58%" valign="top">
-
-```yaml
-Name: Jutatip
-Education: Computer Science & Information Technology
-Role: Frontend Developer & UX/UI Designer
-Focus: Modern UI / Creative Experiences
-Learning: React, Next.js & Backend Development
-Passion: Creative Coding & Beautiful Interfaces
-Goal: Trying my best to reach my dreams
-Location: Thailand
-```
-
-<br>
-
-✨ Love creating modern and clean interfaces  
-💻 Frontend & UI focused developer  
-🎨 Passionate about UX/UI design  
-🚀 Building modern digital experiences  
-🌱 Learning and improving coding skills every day  
-🖤 Trying my best to grow and reach my dreams  
-
-</td>
-
+<h3>My name is Jutatip Phubunlot</h3>
+Currently a 4th-year Computer Science & Information Technology student.  
+An enthusiastic and creative person who enjoys learning new things, pays attention to detail, and adapts well to different environments.  
+Skilled in planning and organizing work, with a strong willingness to grow and develop alongside an organization.
+  
+<ul>
+  <li>🎓 Computer Science & Information Technology</li>
+  <li>💻 Frontend Developer & UX/UI Designer</li>
+  <li>🎨 Focused on Modern UI & Creative Experiences</li>
+  <li>🚀 Learning React, Next.js & Backend Development</li>
+  <li>🖤 Trying my best to reach my dreams</li>
+  <li>📍 Thailand</li>
+</ul>
 <td width="42%">
 
 <img src="https://raw.githubusercontent.com/jutatipp/jutatipp/main/giphy_gif.gif" width="100%" />
@@ -75,23 +88,23 @@ Location: Thailand
 </div>
 
 ---
-# ⚡ TECH STACK
+# TECH STACK
 
 <div align="center">
 
-## 🎨 FRONTEND
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 <br>
 
-## ⚙ BACKEND
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,firebase" />
 
 <br>
 
-## 🎨 DESIGN & TOOLS
+### DESIGN & TOOLS
 
 <img src="https://skillicons.dev/icons?i=figma,github,vscode,photoshop,illustrator" />
 
@@ -99,17 +112,30 @@ Location: Thailand
 
 ---
 
-# 🚀 DEVELOPER MODE
+# DEVELOPER MODE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=%3E+INITIALIZING+DEVELOPER+MODE...;%3E+LOADING+CREATIVE+UI+SYSTEM...;%3E+BUILDING+MODERN+WEB+EXPERIENCES...;%3E+CREATING+SOMETHING+AMAZING..." />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=%3E+INITIALIZING+DEVELOPER+MODE...;%3E+LOADING+CREATIVE+UI+SYSTEM...;%3E+BUILDING+MODERN+WEB+EXPERIENCES...;%3E+CREATING+SOMETHING+AMAZING..."
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=%3E+INITIALIZING+DEVELOPER+MODE...;%3E+LOADING+CREATIVE+UI+SYSTEM...;%3E+BUILDING+MODERN+WEB+EXPERIENCES...;%3E+CREATING+SOMETHING+AMAZING..."
+  />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=%3E+INITIALIZING+DEVELOPER+MODE..." />
+
+</picture>
 
 </div>
 
 ---
 
-# 📊 GITHUB STATS
+# GITHUB STATS
 
 <div align="center">
 
@@ -121,7 +147,7 @@ Location: Thailand
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -131,7 +157,7 @@ Location: Thailand
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# CONTRIBUTION GRAPH
 
 <div align="center">
 
