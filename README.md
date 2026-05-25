@@ -56,7 +56,7 @@
 
 ---
 
-#  ABOUT ME
+# ABOUT ME
 
 <div align="center">
 
@@ -64,19 +64,23 @@
 <tr>
 
 <td width="58%" valign="top">
-<h3>My name is Jutatip Phubunlot</h3>
-Currently a 4th-year Computer Science & Information Technology student.  
-An enthusiastic and creative person who enjoys learning new things, pays attention to detail, and adapts well to different environments.  
-Skilled in planning and organizing work, with a strong willingness to grow and develop alongside an organization.
-  
+
+<h3> Motto : If it works, don't question it </h3>
+
+I'm **Jutatip Phubunlot** — a passionate **Frontend Developer & UX/UI Designer** currently studying **Computer Science & Information Technology**.
+
+<br>
+
 <ul>
-  <li>🎓 Computer Science & Information Technology</li>
-  <li>💻 Frontend Developer & UX/UI Designer</li>
-  <li>🎨 Focused on Modern UI & Creative Experiences</li>
-  <li>🚀 Learning React, Next.js & Backend Development</li>
-  <li>🖤 Trying my best to reach my dreams</li>
-  <li>📍 Thailand</li>
+  <li>🎓 <strong>4th-Year Computer Science & Information Technology Student</strong></li>
+  <li>💻 <strong>Frontend Developer & UX/UI Designer</strong></li>
+  <li>🎨 <strong>Focused on Modern UI & Creative Experiences</strong></li>
+  <li>🚀 <strong>Learning React, Next.js & Backend Development</strong></li>
+  <li>🖤 <strong>Passionate about Creativity & Self-Growth</strong></li>
 </ul>
+
+</td>
+
 <td width="42%">
 
 <img src="https://raw.githubusercontent.com/jutatipp/jutatipp/main/giphy_gif.gif" width="100%" />
