@@ -83,7 +83,7 @@ I'm **Jutatip Phubunlot** — a passionate **Frontend Developer & UX/UI Designer
 
 <td width="42%">
 
-<img width="1200" height="1056" alt="image" src="https://github.com/user-attachments/assets/772a17a3-dcd2-4c42-ae7a-f83887fb051f" />
+<img width="507" height="507" alt="image" src="https://github.com/user-attachments/assets/8c3cf862-d655-44f4-87e7-674db93ce54c" />
 </td>
 
 </tr>
