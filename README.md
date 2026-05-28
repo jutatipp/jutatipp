@@ -160,22 +160,22 @@ I'm **Jutatip Phubunlot** — a passionate **Frontend Developer & UX/UI Designer
 
 ---
 
-# 💻 CURRENTLY WORKING ON
+#  CURRENTLY WORKING ON
 
 <div align="center">
 
 | Project | Description |
 |---|---|
-| 🎨 UX/UI Design | Designing modern mobile interfaces |
-| 💻 Frontend Development | Building responsive websites |
-| 🚀 Portfolio Website | Creating creative developer portfolio |
-| 📚 Learning | React / Next.js / Backend |
+|  UX/UI Design | Designing modern mobile interfaces |
+|  Frontend Development | Building responsive websites |
+|  Portfolio Website | Creating creative developer portfolio |
+|  Learning | React / Next.js / Backend |
 
 </div>
 
 ---
 
-# ✨ FEATURED QUOTE
+#  FEATURED QUOTE
 
 <div align="center">
 
